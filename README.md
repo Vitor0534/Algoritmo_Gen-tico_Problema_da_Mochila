@@ -1,7 +1,7 @@
 Autor: Vitor De Almeida Silva
 
 # Português:
-Este é uma algorítmo genêtico para solucionar um problema de otimização de uma empresa de venda de carros. 
+Este é uma algorítmo genético para solucionar um problema de otimização de uma empresa de venda de carros. 
 
 //problema: uma pequena empresa de compra e venda de carros adiquiriu um terreno com o objetivo de 
 //construir um pátio e um galpão para colocar os carros. O objetivo da empresa é realizar um evento onde 
@@ -11,7 +11,7 @@ Este é uma algorítmo genêtico para solucionar um problema de otimização de 
 //             * a soma das áreas ocupadas pelos veiculos não deve exeder o limite do galpão exedido pela empresa (60 m^2)
 
 
-O algorítmo funciona de forma simplificada, realizando somente crossing over e uma mutação aleatória que ocorre em tempo aleatório. O programa utiliza uma população de 3 indivíduos, sendo 2 pais e 1 que é o melhor individuo obtido a cada interação. o melhor individuo é selecionado a cada interação para realizar o crossing over com o segundo melhor indivíduo na população com o objetivo de melhorar os indivíduos e obter o resultado ótimo. 
+O algoritmo funciona de forma simplificada, realizando somente crossing over e uma mutação aleatória que ocorre em tempo aleatório. O programa utiliza uma população de 3 indivíduos, sendo 2 pais e 1 que é o melhor individuo obtido a cada interação. o melhor individuo é selecionado a cada interação para realizar o crossing over com o segundo melhor indivíduo na população com o objetivo de melhorar os indivíduos e obter o resultado ótimo. 
 
 ...
 
